@@ -3,7 +3,6 @@
 This is the source code for my 3D hyper-casual puzzle game (Bridge Span). Please note that no third-party game assets are included in this repo.
 Please feel free to contribute and I will consider using the contributions in the next update of the game.
 
-* You can play the game here in your browser: https://charlielaver.com/#/BridgeSpan
 * You can download it for android here: https://play.google.com/store/apps/details?id=com.CharlieLaver.BridgeSpan 
 
 ![2021-01-21 (2)](https://user-images.githubusercontent.com/73779192/132993380-dee31c3e-a29d-4dd9-a8fc-9c2e5380e9e4.png)
